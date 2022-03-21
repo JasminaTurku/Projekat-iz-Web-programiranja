@@ -1,0 +1,65 @@
+.divBottom{
+    background-color: #232629;
+    height: 50px;
+    display: flex;
+    justify-content: center; /*za  text */
+    align-items: center;
+    /* align-items: flex-end; da stavimo ispod*/
+    color: white;
+    margin-top: 5px;
+}
+
+
+/****************************NAVBAR****************************/
+
+
+.naslov{
+    text-align: center;
+    color:rgb(140, 201, 83) ;
+    margin: 0px;  /*smanjuje se koliko i tata samim tim se  smanjuju i butoni*/
+    -webkit-text-stroke: 0.4px black; /*stavlja crno oko slova*/
+}
+
+.divNaslov{
+    display: flex;
+    box-shadow: 0px 1px 1px 1px rgb(0 0 0 / 15%);
+    padding-top: 10px;
+    margin-bottom: 5px;
+    background-color: white;
+}
+
+.divLevi{
+    flex: 1;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.divDesniButtoni{
+    display: flex;
+    flex: 1;
+    justify-content: end;
+}
+
+.btnLogin{
+    margin: 5px;
+    background-color: rgb(190, 231, 151);
+    border-radius: 10px;
+
+} 
+
+.btnLogin:hover{  /*da baca tamniju zelenu kad se stavi mis*/
+    background-color: rgb(113, 189, 43);
+}
+
+.btnHome{
+    margin: 5px;
+    background-color: rgb(190, 231, 151);
+    border-radius: 10px;
+}
+
+.btnHome:hover{
+    background-color: rgb(113, 189, 43) ;
+}
+ 
+
+

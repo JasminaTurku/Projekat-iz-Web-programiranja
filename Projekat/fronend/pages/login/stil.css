@@ -1,0 +1,87 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    background-image: url("../../assets/55.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.centralniDiv{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body, html{
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.divLogIn{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 10px; /*zaobljeno*/
+    box-shadow: 3px 3px; /*senka*/
+    background-color: #dadada;
+    padding: 5px;
+}
+.divKorisnickoIme{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.lbl{
+    flex: 0.3;
+}
+
+.inputKorisnickoIme{
+    flex: 0.8;
+}
+.divLozinka{
+    display: flex;
+    margin-bottom: 20px;
+
+}
+.inputLozinka{
+    flex: 0.8;
+}
+
+.divButton{
+    display: flex;
+    padding: 50px;
+}
+
+.btnPotvrdi{
+    flex: 0.5;
+    margin-right: 10px;
+    background-color: rgb(184, 247, 126);
+}
+
+.btnOtkazi{
+    flex: 0.5;
+    margin-left: 10px;
+    background-color: rgb(184, 247, 126);
+
+}
+
+.btnPotvrdi:hover{
+    box-shadow: 2px 2px;
+}
+
+.btnOtkazi:hover{
+    box-shadow: 2px 2px;
+}
+
+

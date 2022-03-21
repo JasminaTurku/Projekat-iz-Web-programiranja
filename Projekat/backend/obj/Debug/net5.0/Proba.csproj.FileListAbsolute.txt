@@ -1,0 +1,671 @@
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Proba.exe
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Proba.deps.json
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Proba.exe
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Proba.deps.json
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\Proba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\Proba\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Proba.exe
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Proba.deps.json
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Proba.exe
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Proba.deps.json
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\AutobuskaStanica\backend\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Proba.exe
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Proba.deps.json
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\Web uputstvo\backend\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.exe
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.deps.json
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.exe
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.deps.json
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.exe
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.deps.json
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\WEB BIBLIOTEKAAA\BibliotekaVezba\backend\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Proba.exe
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Proba.deps.json
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\Blanketi\Pismeni\Prodavnica2021Okt2\Darjan\backend\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Proba.exe
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Proba.deps.json
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\MojProjekatNew\Darjan\backend\obj\Debug\net5.0\Proba.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Proba.exe
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Proba.deps.json
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Proba.runtimeconfig.json
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Proba.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\Proba.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\Proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\Proba.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\Proba.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\Proba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\scopedcss\bundle\Proba.styles.css
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\staticwebassets\Proba.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\Proba.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\Proba.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\ref\Proba.dll
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\Proba.pdb
+C:\Users\Vaio\Desktop\web\Projekat\backend\obj\Debug\net5.0\Proba.genruntimeconfig.cache

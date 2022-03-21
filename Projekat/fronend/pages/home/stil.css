@@ -1,0 +1,69 @@
+html, body {
+    height: 100%;
+}
+
+body{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.divSlika{
+    background-image: url("../../assets/7.jpg");
+    height: 250px;
+    background-size: cover; /*da se slika rasiri da ispadne lepa u divu*/
+    border-radius: 20px; /*da nema ivice*/
+    border-bottom: 2px solid black; /*crno sa donje strane*/
+
+}
+
+.divTekst{
+    box-shadow: 0px 1px 1px 1px rgb(0 0 0 / 15%); /*senka*/
+}
+
+.paragrafTekst{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.centralniDiv{
+    display: flex;
+    flex: 1;
+    justify-content: center;/*da bude u centar, radi samo ako ima display:flex*/
+    align-items: center;  /*da spustimo da bude u centru, da smo stavili end spustilo bi se na kraju*/
+
+}
+
+.divProizvodi{
+    background-image: url("../../assets/8.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 150px;
+    width: 200px;
+    
+    
+}
+
+.buttonProizvodi:hover{
+    background-color:rgb(113, 189, 43);
+}
+
+.buttonProizvodi{
+    width: 100%;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(190, 231, 151) ;
+}
+
+
+

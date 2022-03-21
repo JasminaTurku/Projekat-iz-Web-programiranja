@@ -1,0 +1,278 @@
+
+body, html{
+    min-height: 100%; /*minimalna visina, moze da bude i vise. Ako stavim samo height nece da se vidi tabela kad se spuste*/
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-image: url(../../assets/26.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.divZaNazivPijace{
+    display: flex;
+    justify-content: center;
+}
+
+.nazivPijace{
+    color: rgb(9, 12, 6);
+    background-color:  white;
+    border-radius:  10px;
+}
+
+.centralniDiv{
+    flex:1;
+    display: flex;
+}
+
+.leviDiv{
+    display: flex;
+    flex-direction: column;
+    flex: 0.5;
+}
+
+.desniDiv{
+    flex: 0.5;
+    padding-right: 20px;
+}
+
+.gornjiLeviDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.srednjiLevi{
+    display: flex;
+    justify-content: center;
+}
+
+.donjiLeviDiv{
+    display: flex;
+    justify-content: center; 
+}
+
+.divPrikazi{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    background-color: rgb(231, 224, 224);
+    flex: 0.6;
+}
+
+.divDodaj{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(231, 224, 224);
+    flex: 0.6;
+}
+
+.divIzmena{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    background-color: rgb(231, 224, 224);
+    flex: 0.6;
+}
+
+.divTip{
+    display: flex;
+}
+
+.lbl{
+   flex: 0.3;
+}
+
+.selectTip{
+    flex: 0.7;
+}
+
+.divCenaOd{
+    display: flex;
+}
+.inputCenaOd{
+    flex: 0.7;
+}
+
+.divCenaDo{
+    display: flex;
+}
+
+.inputCenaDo{
+    flex: 0.7;
+}
+
+.btnPrikazi{
+    background-color: white;
+}
+
+.tabela{
+    border: 1px solid black;
+    background-color: rgb(231, 224, 224);
+    border-collapse: collapse; /* da nema duple linije*/
+    width: 100%;
+}
+
+tr{
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+th {
+    border: 1px solid black;
+}
+
+.buttonPrikaziSliku{
+    background-color: white;
+}
+
+.buttonPrikaziSliku:hover{
+    background-color:rgb(185, 250, 125) ;
+}
+
+
+.buttonIzmeni{
+    border-radius: 5px;
+    background-color: white;
+
+}
+
+.buttonIzmeni:hover{
+    background-color:rgb(185, 250, 125) ;
+}
+
+.divIzmenaNaslov{
+    display: flex;
+}
+
+.inputNaziv{
+    flex: 0.7;
+}
+.divTipProizvida {
+    display: flex;
+}
+.selectTipProizvoda{
+    flex: 0.7;
+}
+.divNaziv{
+    display: flex;
+}
+.cenaNovogProizvoda{
+    display: flex;
+}
+
+.divSelectTip{
+    display: flex;
+}
+.selectTipIzmena{
+    flex: 0.7;
+}
+.inputCenaNovogProizvoda{
+    flex: 0.7;
+}
+
+.inputNazivProizvoda{
+    flex: 0.7;
+}
+
+.inputCena{
+    flex: 0.7;
+}
+
+.divNazivProizvoda{
+    display: flex;
+}
+.divCena{
+    display: flex;
+}
+
+.divSlike{
+    display: flex;
+    flex-wrap: wrap; /*da kada slike vide nemaju mesta da prodju jedna ispod druge  */
+    height: 400px;
+    overflow-y: auto;  /* da se napravi skrol za slike da ne izadju van opsega*/
+}
+
+.divSlika{
+    margin: 5px;
+}
+
+.buttonObrisi{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.buttonObrisi:hover {
+    background-color:rgb(185, 250, 125) ;
+
+}
+
+.btnDodajProizvod {
+    margin-top: 20px;
+}
+
+
+@media screen and (max-width: 600px) {
+    
+    .centralniDiv{
+        flex-direction: column;
+    }
+
+    .desniDiv{
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+    .divPrikazi{
+        flex: 0.8;
+    }
+
+    .divDodaj{
+        flex: 0.8;
+    }
+    .divIzmena{
+        flex: 0.8;
+    }
+}
+
+.btnDodaj{
+    background-color: white;
+
+
+}
+
+.btnSacuvaj{
+    background-color: white;
+}
+
+.btnPrikazi:hover{
+    background-color:rgb(185, 250, 125) ;
+
+}
+
+.btnDodaj:hover{
+    background-color:rgb(185, 250, 125) ;
+
+}
+
+.btnSacuvaj:hover{
+    background-color:rgb(185, 250, 125) ;
+
+}
+
+
